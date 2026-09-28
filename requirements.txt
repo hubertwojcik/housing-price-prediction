@@ -1,5 +1,7 @@
 jupyterlab>=4,<5
+jupyterlab-lsp>=5,<6
 ipykernel>=6,<7
+python-lsp-server>=1.12,<2
 numpy>=2,<3
 pandas>=2,<4
 scikit-learn>=1.5,<2

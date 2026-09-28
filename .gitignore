@@ -1,4 +1,5 @@
 .venv/
+datasets/
 .ipynb_checkpoints/
 __pycache__/
 *.py[cod]
